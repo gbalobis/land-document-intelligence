@@ -1,0 +1,11 @@
+SYNTHETIC EXAMPLE ONLY — not a real agreement.
+
+SAMPLE SURFACE LEASE — SUMMARY
+Lessor: Synthetic Farms Ltd.
+Lessee: Example Energy Inc.
+Lands: NW 12-34-56 W4M (synthetic example)
+Term: 5 years from 2026-01-01, renewable
+Annual rent: $1,000 (example figure)
+Purpose: Access road and wellsite, synthetic example only.
+
+Use this file to test parsing / chunking. Do not add real leases here.
